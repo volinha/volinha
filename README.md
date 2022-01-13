@@ -1,4 +1,4 @@
-## Oi, eu sou o Vinícius Fernandes, estudante e desenvolvedor web!
+## Oi, eu sou o Vinícius, estudante e desenvolvedor web!
 <div align="center">
   <a href="https://github.com/volinha">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=volinha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
