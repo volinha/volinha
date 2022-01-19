@@ -18,12 +18,12 @@
     <img align="center" alt="Vola-bootstrap" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
     <img align="center" alt="Vola-mysql" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
     <img align="center" alt="Vola-postgres" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
-    
   </div>
   
  ##
   
   ![Snake animation](https://github.com/volinha/volinha/blob/output/github-contribution-grid-snake.svg)
+
   
  ##
   
